@@ -1,56 +1,30 @@
 {
-  "TypesOfRice": [
+  "Stock1": [
     {
-      "name": "Boiled",
-      "weight": 4,
-      "price": 260
-    },
-    {
-      "name": "Half-boiled",
-      "weight": 6,
-      "price": 450
-    },
-
-    {
-      "name": "Basamati",
-      "weight": 2,
-      "price": 200
-    }
-  ],
-  "TypesOfWheet": [
-    {
-      "name": "Whole grain",
-      "weight": 1,
-      "price": 120
-    },
-    {
-      "name": "Multi Grained",
-      "weight": 3,
-      "price": 460
-    },
-
-    {
-      "name": "Ragi",
-      "weight": 3,
-      "price": 360
-    }
-  ],
-  "TypesOfPulses": [
-    {
-      "name": "Tur Dal",
-      "weight": 4,
+      "shareName": "Kirloskar Indus",
+      "NumberShares": 10,
       "price": 500
-    },
-    {
-      "name": "Moong Dal",
-      "weight": 4,
-      "price": 160
-    },
+    }
 
+
+  ],
+
+  "Stock2": [
     {
-      "name": "Masoor Dal",
-      "weight": 7,
-      "price": 360
+      "shareName": "SBI Gold EST",
+      "NumberShares": 5,
+      "price": 900
+    }
+  ],
+
+  "Stock3": [
+    {
+      "shareName": "Usha Martin",
+      "NumberShares": 8,
+      "price": 1100
     }
   ]
+    
+   
+    
 }
