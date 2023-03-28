@@ -1,0 +1,56 @@
+{
+  "TypesOfRice": [
+    {
+      "name": "Boiled",
+      "weight": 4,
+      "price": 260
+    },
+    {
+      "name": "Half-boiled",
+      "weight": 6,
+      "price": 450
+    },
+
+    {
+      "name": "Basamati",
+      "weight": 2,
+      "price": 200
+    }
+  ],
+  "TypesOfWheet": [
+    {
+      "name": "Whole grain",
+      "weight": 1,
+      "price": 120
+    },
+    {
+      "name": "Multi Grained",
+      "weight": 3,
+      "price": 460
+    },
+
+    {
+      "name": "Ragi",
+      "weight": 3,
+      "price": 360
+    }
+  ],
+  "TypesOfPulses": [
+    {
+      "name": "Tur Dal",
+      "weight": 4,
+      "price": 500
+    },
+    {
+      "name": "Moong Dal",
+      "weight": 4,
+      "price": 160
+    },
+
+    {
+      "name": "Masoor Dal",
+      "weight": 7,
+      "price": 360
+    }
+  ]
+}
